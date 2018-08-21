@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "980121530184",
+    "firebase_url": "https://felipecantu-7f258.firebaseio.com",
+    "project_id": "felipecantu-7f258",
+    "storage_bucket": "felipecantu-7f258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980121530184:android:66c93d543d3d127f",
+        "android_client_info": {
+          "package_name": "com.tecc.anadicmx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980121530184-en2gng8qjetd3n66a425a77j8qtrrbd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_psGWH183Hkff8uC-6jMEVGzSANy5wss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980121530184:android:9ce28649532146cb",
+        "android_client_info": {
+          "package_name": "com.tecccomputacion.anadicmx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980121530184-en2gng8qjetd3n66a425a77j8qtrrbd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_psGWH183Hkff8uC-6jMEVGzSANy5wss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
